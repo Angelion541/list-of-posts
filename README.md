@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# List of posts project with HTML5, TS, React and Redux(toolkit).
+    - [DEMO LINK](https://angelion541.github.io/list-of-posts/)
+    
+    In this project I user Bulma framework for stiles and fontawesome library for icons
+
+In this application I use Redux library for managing and centralizing application state. and React library for for building user interfaces based on UI components.
